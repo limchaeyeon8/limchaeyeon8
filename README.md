@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=2000&color=BFB1E1&center=true&vCenter=true&width=825&height=60&lines=There's+a+discipline+for+passion;It's+about+how+many+times+you+stand+up)](https://git.io/typing-svg)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=limchaeyeon8&theme=tokyonight-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 <!--
 **limchaeyeon8/limchaeyeon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
